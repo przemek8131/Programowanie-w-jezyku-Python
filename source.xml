@@ -1,0 +1,10 @@
+<?xml version="1.0" ?><osoby>
+	<student id="1">
+		<imie>Krzysztof</imie>
+		<nazwisko>Słowik</nazwisko>
+	</student>
+	<student id="2">
+		<imie>Jacek</imie>
+		<nazwisko>Kowalski</nazwisko>
+	</student>
+</osoby>

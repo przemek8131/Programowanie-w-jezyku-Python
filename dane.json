@@ -1,0 +1,23 @@
+{
+  "Władca pierścieni": [
+    {
+      "gatunek": "fantasy",
+      "data": "2001",
+      "ocena": "8.0"
+    }
+  ],
+  "Hobbit": [
+    {
+      "gatunek": "fantasy",
+      "data": "2012",
+      "ocena": "7.6"
+    }
+  ],
+  "Szklana pułapka": [
+    {
+      "gatunek": "akcji",
+      "data": "1988",
+      "ocena": "7.5"
+    }
+  ]
+}
